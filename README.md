@@ -27,8 +27,7 @@
 - Events
 
 ### What Do We Need to Run JavaScript Code?
-- To create JavaScript, all you need is a text editor(VS Code, Notepad, Sublime Text, Atom)
-- To run JavaSript Code is a modern web browser 
+- To create JavaScript, all you need is a text editor (VS Code, Notepad, Sublime Text, Atom)
 
 
 
