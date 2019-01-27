@@ -1,4 +1,5 @@
-# JavaScript Tutorial For Absolute Beginners
+# JavaScript Tutorial For Absolute Beginners ![logo](https://github.com/m-rohit/Javascript/blob/5e832446b3df2b7a4e5bab25fc0f3b6c01aa1023/icons8-javascript-logo-40.png)
+        
 ### What is JavaScript?
 - A programming language that is used to make web pages interactive
 - Interpreted language
